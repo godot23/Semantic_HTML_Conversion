@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* A sequence of header selectors to define their stylistic parameters. Had to be changed from an object to a selector. */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -69,7 +70,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
