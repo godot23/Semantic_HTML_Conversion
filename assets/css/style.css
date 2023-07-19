@@ -122,7 +122,7 @@ main {
     max-width: 150px;
 }
 
-main div {
+main section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -131,11 +131,11 @@ main div {
     color: #ffffff;
 }
 
-main div img {
+main section img {
     max-height: 200px;
 }
 
-main div img h2 {
+main section img h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
