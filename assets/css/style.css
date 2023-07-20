@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* A sequence of header selectors to define their stylistic parameters. Had to be changed from an object to a selector. */
+/* Defines the stylistic parameters of the header sections. */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-/* Contains basic parameters for the main body of the page. */
+/* Contains stylistic properties of the main body of the page. */
 .hero {
     height: 800px;
     width: 100%;
@@ -98,6 +98,7 @@ main {
     max-width: 150px;
 }
 
+/* Defines the stylistic properties of all main sections.  */
 main section {
     margin-bottom: 20px;
     padding: 20px;
@@ -120,6 +121,7 @@ main section img h2 {
     padding: 20px;
 }
 
+/* Defines the stylistic properties of the footer sections. */
 footer {
     padding: 30px;
     clear: both;
