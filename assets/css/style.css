@@ -50,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* Contains basic parameters for the main body of the page. */
 .hero {
     height: 800px;
     width: 100%;
@@ -76,6 +76,7 @@ main {
     margin-left: 20px;
 }
 
+/* defines stylistic properties of the side element. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
