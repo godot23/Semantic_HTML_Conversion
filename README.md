@@ -8,9 +8,8 @@ This project taught me to read, alter, and optimize messy code, and to make mean
 ## Usage
 The links at the top of the page navigate to specific info boxes elsewhere on the page. Users can click on the link that provides the information they are searching for. 
 
-```md
-![image demonstrating the links at the top of the page](./assets/images/Screenshot%202023-07-20%20142256.png)
-```
+![alt text](./assets/images/Screenshot%202023-07-20%20142256.png)
+
 
 ## License
 Copyright <2023> <Jason Navon>
